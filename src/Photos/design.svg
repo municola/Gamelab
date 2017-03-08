@@ -1,0 +1,2984 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1980mm"
+   height="3000mm"
+   viewBox="0 0 7015.748 10629.921"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="design.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4451"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4453" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254832"
+     inkscape:cx="29352.626"
+     inkscape:cy="6574.6337"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-text-baseline="true">
+    <sodipodi:guide
+       position="0,10931.25"
+       orientation="1,0"
+       id="guide4178" />
+    <sodipodi:guide
+       position="782.62857,10632.229"
+       orientation="0,1"
+       id="guide4180" />
+    <sodipodi:guide
+       position="7018.75,9393.7501"
+       orientation="1,0"
+       id="guide4182" />
+    <sodipodi:guide
+       position="4226.4376,6801.8268"
+       orientation="1,0"
+       id="guide4346" />
+    <sodipodi:guide
+       position="2222.1902,6942.7381"
+       orientation="1,0"
+       id="guide4348" />
+    <sodipodi:guide
+       position="6231.7726,9506.0384"
+       orientation="1,0"
+       id="guide4360" />
+    <sodipodi:guide
+       position="4772.5714,9333.0287"
+       orientation="0,1"
+       id="guide4302" />
+    <sodipodi:guide
+       position="4226.4376,6888.7124"
+       orientation="0,1"
+       id="guide4441" />
+    <sodipodi:guide
+       position="2807.3329,6306.8406"
+       orientation="1,0"
+       id="guide6098" />
+    <sodipodi:guide
+       position="2807.333,6219.9552"
+       orientation="0,1"
+       id="guide4223" />
+    <sodipodi:guide
+       position="2222.1902,5551.1978"
+       orientation="0,1"
+       id="guide4225" />
+    <sodipodi:guide
+       position="2222.1902,4882.4402"
+       orientation="0,1"
+       id="guide4227" />
+    <sodipodi:guide
+       position="16713.141,4155.2524"
+       orientation="0,1"
+       id="guide4229" />
+    <sodipodi:guide
+       position="2807.333,3544.925"
+       orientation="0,1"
+       id="guide4231" />
+    <sodipodi:guide
+       position="4822.19,6888.7121"
+       orientation="1,0"
+       id="guide4350" />
+    <sodipodi:guide
+       position="5735.8327,6888.7121"
+       orientation="1,0"
+       id="guide4352" />
+    <sodipodi:guide
+       position="782.62868,6219.9551"
+       orientation="1,0"
+       id="guide4404" />
+    <sodipodi:guide
+       position="3119.1906,2873.4198"
+       orientation="0,1"
+       id="guide4446" />
+    <sodipodi:guide
+       position="15195.667,6888.7129"
+       orientation="1,0"
+       id="guide4643" />
+    <sodipodi:guide
+       position="16635.228,6414.2836"
+       orientation="1,0"
+       id="guide4645" />
+    <sodipodi:guide
+       position="17220.373,6219.9552"
+       orientation="1,0"
+       id="guide4647" />
+    <sodipodi:guide
+       position="18639.478,6133.0696"
+       orientation="1,0"
+       id="guide4649" />
+    <sodipodi:guide
+       position="19235.229,6219.9545"
+       orientation="1,0"
+       id="guide4651" />
+    <sodipodi:guide
+       position="20148.872,6417.0318"
+       orientation="1,0"
+       id="guide4653" />
+    <sodipodi:guide
+       position="20644.812,6888.7124"
+       orientation="1,0"
+       id="guide4655" />
+    <sodipodi:guide
+       position="14413.04,8168.4976"
+       orientation="1,0"
+       id="guide4659" />
+    <sodipodi:guide
+       position="21428.79,8304.2621"
+       orientation="1,0"
+       id="guide4661" />
+    <sodipodi:guide
+       position="17981.483,5162.9334"
+       orientation="0,1"
+       id="guide4502" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,9577.5587)">
+    <rect
+       style="fill:#091d53;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.69199991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4157"
+       width="7012.0581"
+       height="11932.991"
+       x="1.846"
+       y="-9578.0205" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.60914612px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="769.10248"
+       y="-8642.0098"
+       id="text4137"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4139"
+         x="769.10248"
+         y="-8642.0098">League Online Check</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151"
+       width="1439.0302"
+       height="388.12558"
+       x="782.89429"
+       y="-6030.4126" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1207.1252"
+       y="-5721.1401"
+       id="text4153"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98981364,1.0102912)"><tspan
+         sodipodi:role="line"
+         id="tspan4155"
+         x="1207.1252"
+         y="-5721.1401">Aaaron</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7"
+       width="1439.0302"
+       height="388.12561"
+       x="782.89441"
+       y="-5361.6553" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="939.61108"
+       y="-5099.1475"
+       id="text4153-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5"
+         x="939.61108"
+         y="-5099.1475">I need 13900lP</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-8"
+       width="1439.0302"
+       height="388.12561"
+       x="782.89435"
+       y="-4692.8979" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1178.6082"
+       y="-4452.501"
+       id="text4153-8-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-3"
+         x="1178.6082"
+         y="-4452.501">wäkipfui</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-1"
+       width="1439.0302"
+       height="388.12561"
+       x="782.89429"
+       y="-4024.1404" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1142.9958"
+       y="-3783.614"
+       id="text4153-8-89"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-6"
+         x="1142.9958"
+         y="-3783.614">Guinosaji</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-4"
+       width="1439.0302"
+       height="388.12561"
+       x="782.89423"
+       y="-3355.3828" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1096.5239"
+       y="-3114.9724"
+       id="text4153-8-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-33"
+         x="1096.5239"
+         y="-3114.9724">Guinosaji2</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-86"
+       width="1439.0302"
+       height="388.12561"
+       x="782.89417"
+       y="-2686.6252" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1242.1818"
+       y="-2446.5759"
+       id="text4153-8-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-4"
+         x="1242.1818"
+         y="-2446.5759">Râphy</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0.17000002;fill-rule:evenodd;stroke:#080000;stroke-width:5.45924568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4151-22"
+       width="3290.8389"
+       height="339.07224"
+       x="1829.5969"
+       y="-8104.0566" />
+    <g
+       id="g4354"
+       transform="matrix(1.0826643,0,0,0.99995937,111.82841,-0.32237447)">
+      <rect
+         y="-8104.459"
+         x="4972.1377"
+         height="339.87732"
+         width="680.39893"
+         id="rect4151-3"
+         style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#091d53;stroke-width:0.34196958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(0.98981363,1.0102912)"
+         sodipodi:linespacing="125%"
+         id="text4153-9"
+         y="-7794.9141"
+         x="5111.1958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.99500002;stroke:#00002a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.16862745"
+         xml:space="preserve"><tspan
+           y="-7794.9141"
+           x="5111.1958"
+           id="tspan4155-4"
+           sodipodi:role="line">submit</tspan><tspan
+           y="-7592.4961"
+           x="5111.1958"
+           sodipodi:role="line"
+           id="tspan4300" /></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304"
+       y="-7191.4702"
+       x="777.79846"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:219.54966736px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-7191.4702"
+         x="777.79846"
+         id="tspan4306"
+         sodipodi:role="line">Summoner ID:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-9"
+       y="-6877.6401"
+       x="775.86621"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.69010925px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-6877.6401"
+         x="775.86621"
+         id="tspan4306-3"
+         sodipodi:role="line">Click the submit button to search a Summoner. Then you can add it.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.34050432px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-2"
+       width="674.92719"
+       height="339.70297"
+       x="780.13977"
+       y="-8104.2964" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="908.09631"
+       y="-7867.3887"
+       id="text4153-8-02"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982667,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-1"
+         x="908.09631"
+         y="-7867.3887">EUW</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4418"
+       d="m 1328.1611,-7960.1403 28.7666,71.3155 28.9031,-72.6504 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.96914828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#dd4814;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.068;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       d="m 782.62738,-8456.2097 5449.14182,-7.3126"
+       id="path4358"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2796.6846"
+       y="-5778.0576"
+       id="text5900"
+       sodipodi:linespacing="125%"
+       transform="scale(0.998748,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902"
+         x="2796.6846"
+         y="-5778.0576">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2796.6846"
+       y="-5110.1377"
+       id="text5900-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874798,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-1"
+         x="2796.6846"
+         y="-5110.1377">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2796.6843"
+       y="-4442.2173"
+       id="text5900-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.998748,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-9"
+         x="2796.6843"
+         y="-4442.2173">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2796.6843"
+       y="-3774.2974"
+       id="text5900-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874802,1.0012535)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-4"
+         x="2796.6843"
+         y="-3774.2974">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2796.6848"
+       y="-3106.3767"
+       id="text5900-81"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874794,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-0"
+         x="2796.6848"
+         y="-3106.3767">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2796.6848"
+       y="-2438.4565"
+       id="text5900-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9987479,1.0012537)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-04"
+         x="2796.6848"
+         y="-2438.4565">Not fetched yet</tspan></text>
+    <g
+       id="g6244"
+       transform="translate(-1.8551149e-4,-1.6496497e-4)">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(-1.8551149e-4,668.75703)"
+       id="g6244-0">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-4"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-8"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-8"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(-1.8551149e-4,1337.5144)"
+       id="g6244-8">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-9"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-7"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-7"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(-1.8551149e-4,2006.272)"
+       id="g6244-6">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-43"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-0"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-3"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(-1.8551149e-4,2675.0296)"
+       id="g6244-09">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-2"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-5"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-4"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <ellipse
+       style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path6100-94"
+       cx="6123.9893"
+       cy="-2492.5625"
+       rx="107.78357"
+       ry="107.26764" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6084.6538"
+       y="-2447.2295"
+       id="text6102-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6104-9"
+         x="6084.6538"
+         y="-2447.2295">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5024"
+       y="-5836.3496"
+       id="text4235"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4237"
+         x="5024"
+         y="-5836.3496" /></text>
+    <g
+       id="g4261">
+      <g
+         id="g4256">
+        <rect
+           style="fill:#8200ff;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+           id="rect4233"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(3.6810908e-5,668.75688)"
+       id="g4261-5">
+      <g
+         id="g4256-3">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-5"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-2"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(3.6810908e-5,1337.5143)"
+       id="g4261-9">
+      <g
+         id="g4256-1">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-2"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-0"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(3.6810908e-5,2006.2719)"
+       id="g4261-93">
+      <g
+         id="g4256-6">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-0"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-62"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-6"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(3.6810909e-5,2680.712)"
+       id="g4261-1">
+      <g
+         id="g4256-8">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-7"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-20"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(3.6810908e-5,3343.7871)"
+       id="g4261-2">
+      <g
+         id="g4256-37">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-59"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-28"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05320692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4233-59-6"
+       width="5443.9141"
+       height="391.09927"
+       x="783.90509"
+       y="-2016.6068" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:416.43334961px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="724.88208"
+       y="-4279.4038"
+       id="text4231-2-1"
+       sodipodi:linespacing="125%"
+       transform="scale(2.4482955,0.40844743)"><tspan
+         sodipodi:role="line"
+         id="tspan4233-28-2"
+         x="724.88208"
+         y="-4279.4038" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3117.311"
+       y="-1759.0295"
+       id="text4425"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4427"
+         x="3117.311"
+         y="-1759.0295">All friends</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="782.62866"
+       y="-1171.6378"
+       id="text4448"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4450"
+         x="782.62866"
+         y="-1171.6378">Amount of Requests you can make: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="782.62866"
+       y="-859.63782"
+       id="text4452"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4454"
+         x="782.62866"
+         y="-859.63782">Time: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.07434082px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3488.5479"
+       y="-1281.0171"
+       id="text4456"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1219079,0.89133874)"><tspan
+         sodipodi:role="line"
+         id="tspan4458"
+         x="3488.5479"
+         y="-1281.0171">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.07336426px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1153.2319"
+       y="-928.35663"
+       id="text4465"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0473625,0.95477924)"><tspan
+         sodipodi:role="line"
+         id="tspan4467"
+         x="1153.2319"
+         y="-928.35663" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.58912659px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1428.3523"
+       y="-908.50757"
+       id="text4452-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0568492,0.94620874)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-5"
+         x="1428.3523"
+         y="-908.50757">You are ready to go. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:255.83235168px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1071.8147"
+       y="-1003.5795"
+       id="text4452-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1914404,0.83932018)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-9"
+         x="1071.8147"
+         y="-1003.5795">0 </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-2"
+       y="-6740.3384"
+       x="2563.4214"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205.77697754px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"
+       transform="scale(0.93726849,1.0669301)"><tspan
+         y="-6740.3384"
+         x="2563.4214"
+         id="tspan4306-5"
+         sodipodi:role="line">44352619</tspan></text>
+    <rect
+       style="fill:#091d53;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.69199991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4157-3"
+       width="7012.0581"
+       height="11932.991"
+       x="14414.886"
+       y="-9578.0205" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.60914612px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15182.143"
+       y="-8642.0098"
+       id="text4137-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4139-7"
+         x="15182.143"
+         y="-8642.0098">League Online Check</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-5"
+       width="1439.0302"
+       height="388.12558"
+       x="15195.933"
+       y="-6030.4131" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15768.491"
+       y="-5721.1406"
+       id="text4153-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98981363,1.0102912)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-56"
+         x="15768.491"
+         y="-5721.1406">Aaaron</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-2"
+       width="1439.0302"
+       height="388.12561"
+       x="15195.933"
+       y="-5361.6553" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15355.149"
+       y="-5099.1479"
+       id="text4153-8-9"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-12"
+         x="15355.149"
+         y="-5099.1479">I need 13900lP</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-8-7"
+       width="1439.0302"
+       height="388.12561"
+       x="15195.933"
+       y="-4692.8979" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15594.146"
+       y="-4452.5015"
+       id="text4153-8-8-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-3-9"
+         x="15594.146"
+         y="-4452.5015">wäkipfui</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-1-3"
+       width="1439.0302"
+       height="388.12561"
+       x="15195.933"
+       y="-2880.9539" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15558.534"
+       y="-2640.6252"
+       id="text4153-8-89-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-6-0"
+         x="15558.534"
+         y="-2640.6252">Guinosaji</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-4-6"
+       width="1439.0302"
+       height="388.12561"
+       x="15195.933"
+       y="-2212.196" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15512.062"
+       y="-1971.9833"
+       id="text4153-8-3-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-33-6"
+         x="15512.062"
+         y="-1971.9833">Guinosaji2</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-86-1"
+       width="1439.0302"
+       height="388.12561"
+       x="15195.933"
+       y="-1543.4386" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15657.721"
+       y="-1303.5869"
+       id="text4153-8-0-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-4-7"
+         x="15657.721"
+         y="-1303.5869">Râphy</tspan></text>
+    <rect
+       style="fill:#071845;fill-opacity:1;fill-rule:evenodd;stroke:#080000;stroke-width:5.45924568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4151-22-9"
+       width="3290.8389"
+       height="339.07224"
+       x="16242.637"
+       y="-8104.0576" />
+    <g
+       id="g4354-2"
+       transform="matrix(1.0826643,0,0,0.99995937,14524.868,-0.32237143)">
+      <rect
+         y="-8104.459"
+         x="4972.1377"
+         height="339.87732"
+         width="680.39893"
+         id="rect4151-3-0"
+         style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#091d53;stroke-width:0.34196958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(0.98981363,1.0102912)"
+         sodipodi:linespacing="125%"
+         id="text4153-9-2"
+         y="-7794.9141"
+         x="5111.1958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.99500002;stroke:#00002a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.16862745"
+         xml:space="preserve"><tspan
+           y="-7794.9141"
+           x="5111.1958"
+           id="tspan4155-4-3"
+           sodipodi:role="line">submit</tspan><tspan
+           y="-7592.4961"
+           x="5111.1958"
+           sodipodi:role="line"
+           id="tspan4300-7" /></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-5"
+       y="-7191.4707"
+       x="15190.838"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:219.54966736px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-7191.4707"
+         x="15190.838"
+         id="tspan4306-9"
+         sodipodi:role="line">Summoner ID:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-9-2"
+       y="-6877.6406"
+       x="15188.905"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.69010925px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-6877.6406"
+         x="15188.905"
+         id="tspan4306-3-2"
+         sodipodi:role="line">Click the submit button to search a Summoner. Then you can add it.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.34050432px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-2-8"
+       width="674.92719"
+       height="339.70297"
+       x="15193.18"
+       y="-8104.2969" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15323.635"
+       y="-7867.3892"
+       id="text4153-8-02-9"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-1-7"
+         x="15323.635"
+         y="-7867.3892">EUW</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4418-3"
+       d="m 15741.2,-7960.14 28.767,71.315 28.903,-72.65 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.96914828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#dd4814;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.06799984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       d="m 15195.667,-8456.21 5449.142,-7.312"
+       id="path4358-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17227.793"
+       y="-5778.0571"
+       id="text5900-12"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-93"
+         x="17227.793"
+         y="-5778.0571">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17227.793"
+       y="-5110.1377"
+       id="text5900-1-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-1-9"
+         x="17227.793"
+         y="-5110.1377">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17227.793"
+       y="-4442.2173"
+       id="text5900-5-4"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-9-7"
+         x="17227.793"
+         y="-4442.2173">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17227.789"
+       y="-2632.5417"
+       id="text5900-8-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874806,1.0012535)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-4-4"
+         x="17227.789"
+         y="-2632.5417">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17227.793"
+       y="-1964.6212"
+       id="text5900-81-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874796,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-0-0"
+         x="17227.793"
+         y="-1964.6212">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17227.793"
+       y="-1296.701"
+       id="text5900-3-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874787,1.0012537)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-04-6"
+         x="17227.793"
+         y="-1296.701">Not fetched yet</tspan></text>
+    <g
+       id="g6244-1"
+       transform="translate(14413.039,-1.7142929e-4)">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-0"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-63"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-2"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(14413.039,668.75753)"
+       id="g6244-0-0">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-4-6"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-8-1"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-8-5"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(14413.039,1337.5145)"
+       id="g6244-8-5">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-9-4"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-7-7"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-7-6"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(14413.039,3149.4592)"
+       id="g6244-6-5">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-43-6"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-0-9"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-3-3"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(14413.039,3818.2162)"
+       id="g6244-09-7">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-2-4"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-5-5"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-4-2"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <ellipse
+       style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path6100-94-5"
+       cx="20537.029"
+       cy="-1349.3756"
+       rx="107.78357"
+       ry="107.26764" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20497.693"
+       y="-1304.0426"
+       id="text6102-6-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6104-9-7"
+         x="20497.693"
+         y="-1304.0426">x</tspan></text>
+    <g
+       transform="translate(14413.039,2.8570706e-5)"
+       id="g4261-4">
+      <g
+         id="g4256-4">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-3"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-7"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(14413.039,668.75753)"
+       id="g4261-5-8">
+      <g
+         id="g4256-3-6">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-5-8"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-6-8"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-2-4"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4425">
+      <rect
+         y="-4695.2856"
+         x="19235.855"
+         height="392.90167"
+         width="912.38989"
+         id="rect4233-2-4"
+         style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4231-7-9"
+         y="-4452.1006"
+         x="19401.738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-4452.1006"
+           x="19401.738"
+           id="tspan4233-0-2"
+           sodipodi:role="line">Players</tspan></text>
+    </g>
+    <g
+       transform="translate(14413.039,3149.4592)"
+       id="g4261-93-0">
+      <g
+         id="g4256-6-6">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-0-8"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-62-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-6-2"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(14413.039,3823.8992)"
+       id="g4261-1-6">
+      <g
+         id="g4256-8-6">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-7-4"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-9-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-20-5"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(14413.039,4486.9742)"
+       id="g4261-2-0">
+      <g
+         id="g4256-37-4">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-59-8"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-2-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-28-1"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05320692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4233-59-6-7"
+       width="5443.9141"
+       height="391.09927"
+       x="15196.944"
+       y="-873.42004" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="17530.35"
+       y="-615.8429"
+       id="text4425-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4427-7"
+         x="17530.35"
+         y="-615.8429">All friends</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15195.668"
+       y="-28.45134"
+       id="text4448-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4450-2"
+         x="15195.668"
+         y="-28.45134">Amount of Requests you can make: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15195.668"
+       y="283.54874"
+       id="text4452-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4454-1"
+         x="15195.668"
+         y="283.54874">Time: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.07434082px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="16335.448"
+       y="1.533131"
+       id="text4456-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1219079,0.89133876)"><tspan
+         sodipodi:role="line"
+         id="tspan4458-6"
+         x="16335.448"
+         y="1.533131">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.58912659px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15066.096"
+       y="299.66837"
+       id="text4452-8-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0568492,0.94620878)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-5-5"
+         x="15066.096"
+         y="299.66837">You are ready to go. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:255.83235168px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13168.97"
+       y="358.45959"
+       id="text4452-0-9"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1914404,0.8393202)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-9-4"
+         x="13168.97"
+         y="358.45959">0 </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-2-9"
+       y="-6740.3384"
+       x="17941.127"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205.77697754px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.93726852,1.0669301)"><tspan
+         y="-6740.3384"
+         x="17941.127"
+         id="tspan4306-5-0"
+         sodipodi:role="line">44352619</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15195.667"
+       y="-3948.2964"
+       id="text4408"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15195.667"
+         y="-3948.2964"
+         id="tspan4412" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15198.471"
+       y="-3990.0728"
+       id="text4430"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15198.471"
+         y="-3990.0728"
+         id="tspan4440"
+         style="fill:#e40062;fill-opacity:1">Guinosaji</tspan><tspan
+         sodipodi:role="line"
+         x="15198.471"
+         y="-3776.479"
+         id="tspan4456"
+         style="fill:#e40062;fill-opacity:1">Helli98</tspan><tspan
+         sodipodi:role="line"
+         x="15198.471"
+         y="-3562.8853"
+         id="tspan4459"
+         style="fill:#e40062;fill-opacity:1">Aaaron</tspan><tspan
+         sodipodi:role="line"
+         x="15198.471"
+         y="-3349.2915"
+         id="tspan4461"
+         style="fill:#e40062;fill-opacity:1">Okilapod</tspan><tspan
+         sodipodi:role="line"
+         x="15198.471"
+         y="-3135.6978"
+         id="tspan4463"
+         style="fill:#e40062;fill-opacity:1">They call me DMG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="18364.27"
+       y="-3959.4861"
+       id="text4474"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="18364.27"
+         y="-3959.4861"
+         id="tspan4484"
+         style="fill:#e40062;fill-opacity:1">Froguen</tspan><tspan
+         sodipodi:role="line"
+         x="18364.27"
+         y="-3745.8923"
+         id="tspan4494"
+         style="fill:#e40062;fill-opacity:1">Quatschchopf</tspan><tspan
+         sodipodi:role="line"
+         x="18364.27"
+         y="-3532.2986"
+         id="tspan4496"
+         style="fill:#e40062;fill-opacity:1">NotEvenClose</tspan><tspan
+         sodipodi:role="line"
+         x="18364.27"
+         y="-3318.7048"
+         id="tspan4498"
+         style="fill:#e40062;fill-opacity:1">Annie only</tspan><tspan
+         sodipodi:role="line"
+         x="18364.27"
+         y="-3105.1111"
+         id="tspan4500"
+         style="fill:#e40062;fill-opacity:1">hi im tosu</tspan></text>
+    <rect
+       style="fill:#091d53;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.09578514;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4157-3-9"
+       width="13279.449"
+       height="7754.7134"
+       x="50404.613"
+       y="3394.6167" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.60914612px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51572.066"
+       y="4595.188"
+       id="text4137-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4139-7-2"
+         x="51572.066"
+         y="4595.188">League Online Check</tspan></text>
+    <path
+       style="fill:#071845;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:9.87611294;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       d="m 51575.49,4765.5667 10717.226,-7.2588"
+       id="path4358-6-7"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-5-3"
+       width="1439.0302"
+       height="388.12558"
+       x="54152.004"
+       y="7807.856" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="55125.465"
+       y="7976.1665"
+       id="text4153-3-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98981363,1.0102912)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-56-0"
+         x="55125.465"
+         y="7976.1665">Aaaron</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-2-6"
+       width="1439.0302"
+       height="388.12561"
+       x="54152.004"
+       y="8476.6133" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54317.973"
+       y="8736.7217"
+       id="text4153-8-9-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-12-6"
+         x="54317.973"
+         y="8736.7217">I need 13900lP</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-8-7-1"
+       width="1439.0302"
+       height="388.12561"
+       x="54152.004"
+       y="9145.3711" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54556.969"
+       y="9383.3682"
+       id="text4153-8-8-0-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-3-9-7"
+         x="54556.969"
+         y="9383.3682">wäkipfui</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-1-3-9"
+       width="1439.0302"
+       height="388.12561"
+       x="54152.004"
+       y="10957.315" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54521.359"
+       y="11195.245"
+       id="text4153-8-89-6-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-6-0-0"
+         x="54521.359"
+         y="11195.245">Guinosaji</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-4-6-2"
+       width="1439.0302"
+       height="388.12561"
+       x="54152.004"
+       y="11626.073" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54474.887"
+       y="11863.887"
+       id="text4153-8-3-2-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-33-6-7"
+         x="54474.887"
+         y="11863.887">Guinosaji2</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-86-1-5"
+       width="1439.0302"
+       height="388.12561"
+       x="54152.004"
+       y="12294.83" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54620.543"
+       y="12532.283"
+       id="text4153-8-0-8-9"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-4-7-2"
+         x="54620.543"
+         y="12532.283">Râphy</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0.17000002;fill-rule:evenodd;stroke:#080000;stroke-width:5.45924568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4151-22-9-2"
+       width="3290.8389"
+       height="339.07224"
+       x="55198.707"
+       y="5734.2109" />
+    <g
+       id="g4354-2-8"
+       transform="matrix(1.0826643,0,0,0.99995937,53480.937,13837.947)">
+      <rect
+         y="-8104.459"
+         x="4972.1377"
+         height="339.87732"
+         width="680.39893"
+         id="rect4151-3-0-9"
+         style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#091d53;stroke-width:0.34196958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(0.98981363,1.0102912)"
+         sodipodi:linespacing="125%"
+         id="text4153-9-2-7"
+         y="-7794.9141"
+         x="5111.1958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.99500002;stroke:#00002a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.16862745"
+         xml:space="preserve"><tspan
+           y="-7794.9141"
+           x="5111.1958"
+           id="tspan4155-4-3-3"
+           sodipodi:role="line">submit</tspan><tspan
+           y="-7592.4961"
+           x="5111.1958"
+           sodipodi:role="line"
+           id="tspan4300-7-6" /></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-5-1"
+       y="6646.7979"
+       x="54146.906"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:219.54966736px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="6646.7979"
+         x="54146.906"
+         id="tspan4306-9-2"
+         sodipodi:role="line">Summoner ID:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-9-2-9"
+       y="6960.6284"
+       x="54144.977"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.69010925px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="6960.6284"
+         x="54144.977"
+         id="tspan4306-3-2-3"
+         sodipodi:role="line">Click the submit button to search a Summoner. Then you can add it.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.34050432px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-2-8-1"
+       width="674.92719"
+       height="339.70297"
+       x="54149.25"
+       y="5733.9717" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54286.457"
+       y="5968.481"
+       id="text4153-8-02-9-9"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-1-7-4"
+         x="54286.457"
+         y="5968.481">EUW</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4418-3-7"
+       d="m 54697.269,5878.1289 28.767,71.315 28.903,-72.65 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.96914828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56232.699"
+       y="8042.8862"
+       id="text5900-12-4"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-93-5"
+         x="56232.699"
+         y="8042.8862">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56232.699"
+       y="8710.8057"
+       id="text5900-1-1-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-1-9-3"
+         x="56232.699"
+         y="8710.8057">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56232.699"
+       y="9378.7256"
+       id="text5900-5-4-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-9-7-1"
+         x="56232.699"
+         y="9378.7256">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56232.691"
+       y="11188.402"
+       id="text5900-8-8-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874806,1.0012535)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-4-4-6"
+         x="56232.691"
+         y="11188.402">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56232.699"
+       y="11856.321"
+       id="text5900-81-5-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874796,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-0-0-2"
+         x="56232.699"
+         y="11856.321">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56232.703"
+       y="12524.24"
+       id="text5900-3-3-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874787,1.0012537)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-04-6-6"
+         x="56232.703"
+         y="12524.24">Not fetched yet</tspan></text>
+    <g
+       id="g6244-1-1"
+       transform="translate(53369.108,13838.269)">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-0-5"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-63-5"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-2-4"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(53369.108,14507.026)"
+       id="g6244-0-0-7">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-4-6-6"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-8-1-5"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-8-5-6"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(53369.108,15175.783)"
+       id="g6244-8-5-9">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-9-4-3"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-7-7-7"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-7-6-4"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(53369.108,16987.728)"
+       id="g6244-6-5-5">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-43-6-2"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-0-9-5"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-3-3-4"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(53369.108,17656.485)"
+       id="g6244-09-7-7">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-2-4-4"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-5-5-4"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-4-2-3"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <ellipse
+       style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path6100-94-5-0"
+       cx="59493.098"
+       cy="12488.894"
+       rx="107.78357"
+       ry="107.26764" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="59453.762"
+       y="12534.227"
+       id="text6102-6-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6104-9-7-8"
+         x="59453.762"
+         y="12534.227">x</tspan></text>
+    <g
+       transform="translate(53369.108,13838.269)"
+       id="g4261-4-6">
+      <g
+         id="g4256-4-8">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-3-8"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-0-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-7-3"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(53369.108,14507.026)"
+       id="g4261-5-8-1">
+      <g
+         id="g4256-3-6-4">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-5-8-9"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-6-8-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-2-4-0"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(38956.069,13838.269)"
+       id="g4425-6">
+      <rect
+         y="-4695.2856"
+         x="19235.855"
+         height="392.90167"
+         width="912.38989"
+         id="rect4233-2-4-8"
+         style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4231-7-9-9"
+         y="-4452.1006"
+         x="19401.738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-4452.1006"
+           x="19401.738"
+           id="tspan4233-0-2-2"
+           sodipodi:role="line">Players</tspan></text>
+    </g>
+    <g
+       transform="translate(53369.108,16987.728)"
+       id="g4261-93-0-6">
+      <g
+         id="g4256-6-6-6">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-0-8-4"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-62-9-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-6-2-5"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(53369.108,17662.168)"
+       id="g4261-1-6-0">
+      <g
+         id="g4256-8-6-4">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-7-4-8"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-9-9-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-20-5-1"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(53369.108,18325.243)"
+       id="g4261-2-0-7">
+      <g
+         id="g4256-37-4-2">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-59-8-7"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-2-7-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-28-1-2"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05320692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4233-59-6-7-6"
+       width="5443.9141"
+       height="391.09927"
+       x="54153.016"
+       y="12964.849" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56486.418"
+       y="13222.426"
+       id="text4425-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4427-7-0"
+         x="56486.418"
+         y="13222.426">All friends</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54151.738"
+       y="13809.817"
+       id="text4448-2-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4450-2-1"
+         x="54151.738"
+         y="13809.817">Amount of Requests you can make: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54151.738"
+       y="14121.817"
+       id="text4452-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4454-1-9"
+         x="54151.738"
+         y="14121.817">Time: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.07434082px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51058.504"
+       y="15526.797"
+       id="text4456-0-4"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1219079,0.89133876)"><tspan
+         sodipodi:role="line"
+         id="tspan4458-6-9"
+         x="51058.504"
+         y="15526.797">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.58912659px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51926.672"
+       y="14924.631"
+       id="text4452-8-1-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0568492,0.94620878)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-5-5-9"
+         x="51926.672"
+         y="14924.631">You are ready to go. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:255.83235168px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="45865.586"
+       y="16845.932"
+       id="text4452-0-9-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1914404,0.8393202)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-9-4-7"
+         x="45865.586"
+         y="16845.932">0 </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-2-9-7"
+       y="6229.8354"
+       x="59504.531"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205.77697754px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.93726852,1.0669301)"><tspan
+         y="6229.8354"
+         x="59504.531"
+         id="tspan4306-5-0-1"
+         sodipodi:role="line">44352619</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="54154.539"
+       y="9848.1963"
+       id="text4430-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="54154.539"
+         y="9848.1963"
+         id="tspan4440-5"
+         style="fill:#e40062;fill-opacity:1">Guinosaji</tspan><tspan
+         sodipodi:role="line"
+         x="54154.539"
+         y="10061.79"
+         id="tspan4456-9"
+         style="fill:#e40062;fill-opacity:1">Helli98</tspan><tspan
+         sodipodi:role="line"
+         x="54154.539"
+         y="10275.384"
+         id="tspan4459-7"
+         style="fill:#e40062;fill-opacity:1">Aaaron</tspan><tspan
+         sodipodi:role="line"
+         x="54154.539"
+         y="10488.978"
+         id="tspan4461-7"
+         style="fill:#e40062;fill-opacity:1">Okilapod</tspan><tspan
+         sodipodi:role="line"
+         x="54154.539"
+         y="10702.571"
+         id="tspan4463-6"
+         style="fill:#e40062;fill-opacity:1">They call me DMG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="57320.34"
+       y="9878.7832"
+       id="text4474-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="57320.34"
+         y="9878.7832"
+         id="tspan4484-3"
+         style="fill:#e40062;fill-opacity:1">Froguen</tspan><tspan
+         sodipodi:role="line"
+         x="57320.34"
+         y="10092.377"
+         id="tspan4494-6"
+         style="fill:#e40062;fill-opacity:1">Quatschchopf</tspan><tspan
+         sodipodi:role="line"
+         x="57320.34"
+         y="10305.971"
+         id="tspan4496-5"
+         style="fill:#e40062;fill-opacity:1">NotEvenClose</tspan><tspan
+         sodipodi:role="line"
+         x="57320.34"
+         y="10519.564"
+         id="tspan4498-6"
+         style="fill:#e40062;fill-opacity:1">Annie only</tspan><tspan
+         sodipodi:role="line"
+         x="57320.34"
+         y="10733.158"
+         id="tspan4500-3"
+         style="fill:#e40062;fill-opacity:1">hi im tosu</tspan></text>
+    <rect
+       style="fill:#091d53;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.69199991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4157-9"
+       width="7012.0581"
+       height="11932.991"
+       x="27568.971"
+       y="-9578.0205" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:252.60914612px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28336.227"
+       y="-8642.0098"
+       id="text4137-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4139-3"
+         x="28336.227"
+         y="-8642.0098">League Online Check</tspan></text>
+    <rect
+       style="fill:#c6002e;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="rect4151-6"
+       width="1439.0302"
+       height="388.12558"
+       x="28350.02"
+       y="-6030.4136" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29057.949"
+       y="-5721.1396"
+       id="text4153-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98981363,1.0102912)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-50"
+         x="29057.949"
+         y="-5721.1396">Aaaron</tspan></text>
+    <rect
+       style="fill:#008e43;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="rect4151-7-29"
+       width="1439.0302"
+       height="388.12561"
+       x="28350.02"
+       y="-5361.6558" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28511.516"
+       y="-5099.1484"
+       id="text4153-8-4"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-35"
+         x="28511.516"
+         y="-5099.1484">I need 13900lP</tspan></text>
+    <rect
+       style="fill:#e40062;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="rect4151-7-8-1"
+       width="1439.0302"
+       height="388.12561"
+       x="28350.02"
+       y="-4692.8979" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28750.514"
+       y="-4452.502"
+       id="text4153-8-8-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-3-4"
+         x="28750.514"
+         y="-4452.502">wäkipfui</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-1-31"
+       width="1439.0302"
+       height="388.12561"
+       x="28350.02"
+       y="-4024.1404" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28714.9"
+       y="-3783.6138"
+       id="text4153-8-89-4"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-6-6"
+         x="28714.9"
+         y="-3783.6138">Guinosaji</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-4-9"
+       width="1439.0302"
+       height="388.12561"
+       x="28350.02"
+       y="-3355.3826" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28668.43"
+       y="-3114.9722"
+       id="text4153-8-3-4"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-33-2"
+         x="28668.43"
+         y="-3114.9722">Guinosaji2</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.53145397px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-7-86-2"
+       width="1439.0302"
+       height="388.12561"
+       x="28350.02"
+       y="-2686.6252" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28814.088"
+       y="-2446.5757"
+       id="text4153-8-0-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-4-4"
+         x="28814.088"
+         y="-2446.5757">Râphy</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0.17000002;fill-rule:evenodd;stroke:#080000;stroke-width:5.45924568;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4151-22-1"
+       width="3290.8389"
+       height="339.07224"
+       x="29396.723"
+       y="-8104.0571" />
+    <g
+       id="g4354-28"
+       transform="matrix(1.0826643,0,0,0.99995937,27678.953,-0.32272099)">
+      <rect
+         y="-8104.459"
+         x="4972.1377"
+         height="339.87732"
+         width="680.39893"
+         id="rect4151-3-8"
+         style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#091d53;stroke-width:0.34196958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         transform="scale(0.98981363,1.0102912)"
+         sodipodi:linespacing="125%"
+         id="text4153-9-9"
+         y="-7794.9141"
+         x="5111.1958"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:161.93421936px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.99500002;stroke:#00002a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.16862745"
+         xml:space="preserve"><tspan
+           y="-7794.9141"
+           x="5111.1958"
+           id="tspan4155-4-2"
+           sodipodi:role="line">submit</tspan><tspan
+           y="-7592.4961"
+           x="5111.1958"
+           sodipodi:role="line"
+           id="tspan4300-8" /></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-8"
+       y="-7191.4712"
+       x="28344.924"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:219.54966736px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-7191.4712"
+         x="28344.924"
+         id="tspan4306-8"
+         sodipodi:role="line">Summoner ID:</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-9-6"
+       y="-6877.6411"
+       x="28342.99"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.69010925px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-6877.6411"
+         x="28342.99"
+         id="tspan4306-3-8"
+         sodipodi:role="line">Click the submit button to search a Summoner. Then you can add it.</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.34050432px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4151-2-3"
+       width="674.92719"
+       height="339.70297"
+       x="28347.266"
+       y="-8104.2974" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:163.57009888px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28480.002"
+       y="-7867.3892"
+       id="text4153-8-02-8"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99982664,1.0001734)"><tspan
+         sodipodi:role="line"
+         id="tspan4155-5-1-3"
+         x="28480.002"
+         y="-7867.3892">EUW</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4418-33"
+       d="m 28895.286,-7960.1409 28.767,71.316 28.903,-72.651 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.96914828px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#dd4814;fill-rule:evenodd;stroke:#ffffff;stroke-width:7.06799984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.94117647"
+       d="m 28349.752,-8456.2099 5449.142,-7.313"
+       id="path4358-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30398.369"
+       y="-5778.0576"
+       id="text5900-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-47"
+         x="30398.369"
+         y="-5778.0576">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30398.369"
+       y="-5110.1382"
+       id="text5900-1-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-1-8"
+         x="30398.369"
+         y="-5110.1382">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30398.369"
+       y="-4442.2178"
+       id="text5900-5-9"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874797,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-9-0"
+         x="30398.369"
+         y="-4442.2178">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41645813px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30398.363"
+       y="-3774.2974"
+       id="text5900-8-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874806,1.0012535)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-4-8"
+         x="30398.363"
+         y="-3774.2974">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30398.369"
+       y="-3106.3767"
+       id="text5900-81-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874796,1.0012536)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-0-9"
+         x="30398.369"
+         y="-3106.3767">Not fetched yet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.41644287px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30398.371"
+       y="-2438.4565"
+       id="text5900-3-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99874787,1.0012537)"><tspan
+         sodipodi:role="line"
+         id="tspan5902-04-3"
+         x="30398.371"
+         y="-2438.4565">Not fetched yet</tspan></text>
+    <g
+       id="g6244-3"
+       transform="translate(27567.125,-5.2099179e-4)">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-3"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-73"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-26"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(27567.125,668.75718)"
+       id="g6244-0-5">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-4-2"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-8-6"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-8-58"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(27567.125,1337.5142)"
+       id="g6244-8-7">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-9-9"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-7-6"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-7-0"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(27567.125,2006.2722)"
+       id="g6244-6-4">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-43-1"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-0-0"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-3-4"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <g
+       transform="translate(27567.125,2675.0292)"
+       id="g6244-09-8">
+      <ellipse
+         ry="107.26764"
+         rx="107.78357"
+         cy="-5836.3496"
+         cx="6123.9893"
+         id="path6100-2-7"
+         style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6102-5-0"
+         y="-5791.0166"
+         x="6084.6538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-5791.0166"
+           x="6084.6538"
+           id="tspan6104-4-8"
+           sodipodi:role="line">x</tspan></text>
+    </g>
+    <ellipse
+       style="fill:#e40062;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path6100-94-6"
+       cx="33691.113"
+       cy="-2492.5623"
+       rx="107.78357"
+       ry="107.26764" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33651.781"
+       y="-2447.2292"
+       id="text6102-6-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6104-9-4"
+         x="33651.781"
+         y="-2447.2292">x</tspan></text>
+    <g
+       transform="translate(27567.125,-3.2099179e-4)"
+       id="g4261-7">
+      <g
+         id="g4256-9">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-39"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-28"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-3"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(27567.125,668.75718)"
+       id="g4261-5-0">
+      <g
+         id="g4256-3-1">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-5-7"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-6-89"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-2-1"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(27567.125,1337.5142)"
+       id="g4261-9-5">
+      <g
+         id="g4256-1-4">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-2-9"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-7-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-0-5"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(27567.125,2006.2722)"
+       id="g4261-93-7">
+      <g
+         id="g4256-6-4">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-0-9"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-62-94"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-6-5"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(27567.125,2680.7122)"
+       id="g4261-1-9">
+      <g
+         id="g4256-8-3">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-7-5"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-9-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-20-0"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(27567.125,3343.7872)"
+       id="g4261-2-8">
+      <g
+         id="g4256-37-1">
+        <rect
+           style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.25282168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="rect4233-59-9"
+           width="912.38989"
+           height="392.90167"
+           x="4822.8164"
+           y="-6032.8003" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="4988.7002"
+           y="-5789.6152"
+           id="text4231-2-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4233-28-7"
+             x="4988.7002"
+             y="-5789.6152">Players</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#8200ff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.05320692px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4233-59-6-8"
+       width="5443.9141"
+       height="391.09927"
+       x="28351.029"
+       y="-2016.6073" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="30684.436"
+       y="-1759.03"
+       id="text4425-25"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4427-3"
+         x="30684.436"
+         y="-1759.03">All friends</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28349.754"
+       y="-1171.6384"
+       id="text4448-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4450-9"
+         x="28349.754"
+         y="-1171.6384">Amount of Requests you can make: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.875px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28349.754"
+       y="-859.63812"
+       id="text4452-02"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4454-0"
+         x="28349.754"
+         y="-859.63812">Time: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:258.07434082px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28060.193"
+       y="-1281.0172"
+       id="text4456-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1219079,0.89133876)"><tspan
+         sodipodi:role="line"
+         id="tspan4458-9"
+         x="28060.193"
+         y="-1281.0172">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180.58912659px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="27512.605"
+       y="-908.50806"
+       id="text4452-8-6"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0568492,0.94620878)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-5-2"
+         x="27512.605"
+         y="-908.50806">You are ready to go. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:255.83235168px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24209.459"
+       y="-1003.5797"
+       id="text4452-0-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1914404,0.8393202)"><tspan
+         sodipodi:role="line"
+         id="tspan4454-9-2"
+         x="24209.459"
+         y="-1003.5797">0 </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4304-2-0"
+       y="-6740.3389"
+       x="31975.617"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:205.77697754px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e40062;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.93726852,1.0669301)"><tspan
+         y="-6740.3389"
+         x="31975.617"
+         id="tspan4306-5-7"
+         sodipodi:role="line">44352619</tspan></text>
+    <rect
+       style="fill:#00e4ff;fill-rule:evenodd;stroke:none;stroke-width:0.86114049px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="rect4665"
+       width="1067.4692"
+       height="47.013863"
+       x="28350.186"
+       y="-5641.5918" />
+  </g>
+</svg>
