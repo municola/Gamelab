@@ -3,7 +3,7 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
 import { fetchGame, errorMessage } from '../Actions/index.js';
-import styles from '../Css/App.css';
+import styles from '../Css/OnlineChecker.css';
 
 class FetchAllButton extends Component {
   getAllFriendsGameButton() {

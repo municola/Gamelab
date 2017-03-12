@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
-import styles from '../Css/App.css';
+import styles from '../Css/OnlineChecker.css';
 
 class ParticipantsList extends Component {
   printParticipants(id, team) {

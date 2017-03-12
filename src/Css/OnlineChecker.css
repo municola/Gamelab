@@ -1,0 +1,213 @@
+.body {
+  width: 100%;
+  color: white;
+}
+
+.container {
+  background-color: #151d25;
+  padding: 100px;
+}
+
+.titleContainer {
+  display: flex;
+  height: 120px;
+  background-color: #364554;
+  justify-content: center;
+}
+
+.title {
+  align-self: center;
+  font-size: 2.5rem;
+}
+
+.normalText {
+  margin: 0px;
+  padding-bottom: 10px;
+}
+
+.smallText {
+  margin: 0px;
+  font-size: 1.5rem;
+}
+
+.searchSection {
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.regionSelector {
+  background-color: white;
+  padding: 13px;
+  font-size: 1.5rem;
+}
+
+.input {
+  color: #3ab2b2;
+  border: 1px solid black;
+  background-color: #364554;
+  font-size: 1.5rem;
+  padding-left: 20px;
+  flex-grow: 1;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.submitSeciton {
+  margin-right: 80px;
+  width: 150px;
+}
+
+.submit {
+  border: none;
+  background-color: #3ab2b2;
+  font-size: 1.5rem;
+  padding: 13px;
+  width: 150px;
+}
+
+.summonerIdSection {
+  display: flex;
+  flex-direction: row;
+}
+
+.summonerIdText {
+  margin: 0px;
+  padding-bottom: 10px;
+  color: #e40062;
+  padding-left: 40px;
+}
+
+.addSummonerButton {
+  border: none;
+  background-color: #3ab2b2;
+  padding: 13px;
+  margin-top: 20px;
+  width: 300px;
+}
+
+.contextSection {
+  padding-top: 50px;
+}
+
+.friendList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 13px;
+}
+
+.friendButton {
+  font-size: 1.5rem;
+  background-color: white;
+  padding: 13px;
+  border: none;
+  width: 250px;
+}
+
+.progressBar {
+  background-color: red;
+}
+
+.gameInfo {
+  align-self: center;
+  display: flex;
+}
+
+.contextText {
+  margin: 0px;
+  align-self: center;
+  margin-left: 30px;
+}
+
+.players {
+  background-color: #3ab2b2;
+  align-self: center;
+  height: 100%;
+  border: none;
+  font-size: 1.5rem;
+  padding: 13px;
+  margin-right: 40px;
+  width: 150px;
+}
+
+.close {
+  background-color: #364554;
+  font-size: 1.7rem;
+  font-weight: bold;
+  border: none;
+  margin-bottom: 0px;
+  padding: 0px;
+  margin: auto;
+  width: 40px;
+  height: 40px;
+}
+
+.participantsList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 25px;
+  background-color: #071845;
+}
+
+.teamList {
+  display: flex;
+  flex-direction: column;
+}
+
+.getAllFriendsGameButton {
+  width: 100%;
+  background-color: #3ab2b2;
+  font-size: 1.5rem;
+  padding: 13px;
+  border: none;
+}
+
+.getAllFriendsGameButton2 {
+  width: 100%;
+  background-color: #3ab2b2;
+  font-size: 1.5rem;
+  padding: 13px;
+  border: none;
+}
+
+.getAllFriendsGameButtonSection {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.getAllFriendsGameButtonSection2 {
+  margin-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.vs {
+  margin: 0px;
+  color: #3ab2b2;
+  align-self: center;
+  font-size: 3rem;
+}
+
+.time {
+  display: flex;
+}
+
+.counter {
+  margin-left: 20px;
+  color: #3ab2b2;
+}
+
+.redText {
+  color: #3ab2b2;
+}
+
+.redText2 {
+  margin: 0px;
+}
+
+.timer {
+  margin-left: 20px;
+  margin-right: 10px;
+}

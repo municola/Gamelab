@@ -2,7 +2,7 @@ import Progress from 'react-progressbar';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
-import styles from '../Css/App.css';
+import styles from '../Css/OnlineChecker.css';
 import SearchSummoner from '../Containers/SearchSummoner.js';
 import FriendsList from '../Containers/FriendsList.js';
 
@@ -36,10 +36,10 @@ class OnlineChecker extends Component {
   render() {
     return (
       <div className={styles.body}>
+        <div className={styles.titleContainer}>
+          <p className={styles.title}>League Online Check</p>
+        </div>
         <div className={styles.container}>
-          <div className={styles.titleContainer}>
-            <p className={styles.title}>League Online Check</p>
-          </div>
           <SearchSummoner progressBar={(length) => this.progressBar(length)} />
           <FriendsList progressBar={(length) => this.progressBar(length)} />
           <div className={styles.time}>
@@ -47,7 +47,7 @@ class OnlineChecker extends Component {
             <p className={styles.counter}>{10 - this.props.game.callNumber}</p>
             {this.printTime()}
           </div>
-          <p>{this.props.game.errorMessage}</p>
+          <p className={styles.normalText}>{this.props.game.errorMessage}</p>
         </div>
       </div>
     );

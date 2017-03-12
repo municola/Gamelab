@@ -3,7 +3,7 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
 import { deleteFriend } from '../Actions/index.js';
-import styles from '../Css/App.css';
+import styles from '../Css/OnlineChecker.css';
 
 function CloseButton(props) {
   return (

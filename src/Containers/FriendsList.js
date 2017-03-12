@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
-import styles from '../Css/App.css';
+import styles from '../Css/OnlineChecker.css';
 import FriendButton from '../Containers/FriendButton.js';
 import FetchAllButton from '../Containers/FetchAllButton.js';
 import GameInfo from '../Containers/GameInfo.js';

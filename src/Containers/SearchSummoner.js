@@ -3,7 +3,7 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
 import { addSummoner, saveName, saveRegion, fetchId, errorMessage } from '../Actions/index.js';
-import styles from '../Css/App.css';
+import styles from '../Css/OnlineChecker.css';
 
 class SearchSummoner extends Component {
   addSummoner() {

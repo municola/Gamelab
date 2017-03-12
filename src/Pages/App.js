@@ -3,16 +3,10 @@ import ReactInterval from 'react-interval';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
+import styles from '../Css/App.css';
 import { decrement, progressBarCounter, resetCounter } from '../Actions/index.js';
 import Navigation from '../Components/Navigation';
 import Footer from '../Components/Footer';
-
-const style = {
-  main: {
-    margin: '-8px',
-    fontFamily: 'sans-serif',
-  },
-};
 
 class App extends Component {
   counterEnabler() {
@@ -24,10 +18,9 @@ class App extends Component {
 
   render() {
     return (
-      <div style={style.main}>
-        <Navigation />
+      <div className={styles.main}>
+        <Navigation className={styles.Nav} />
         {this.props.children}
-        <Footer />
         <ReactInterval
           timeout={100}
           enabled={this.counterEnabler()}
