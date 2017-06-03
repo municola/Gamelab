@@ -6,7 +6,6 @@ import { connect } from 'react-redux';
 import styles from '../Css/App.css';
 import { decrement, progressBarCounter, resetCounter } from '../Actions/index.js';
 import Navigation from '../Components/Navigation';
-import Footer from '../Components/Footer';
 
 class App extends Component {
   counterEnabler() {
@@ -18,8 +17,8 @@ class App extends Component {
 
   render() {
     return (
-      <div className={styles.main}>
-        <Navigation className={styles.Nav} />
+      <div className={styles.app}>
+        <Navigation />
         {this.props.children}
         <ReactInterval
           timeout={100}

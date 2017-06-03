@@ -3,6 +3,7 @@ import React from 'react';
 const style = {
   buttonStyle: {
     width: '300px',
+    color: '#3ab2b2',
   },
 };
 

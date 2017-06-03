@@ -3,11 +3,11 @@ import React from 'react';
 const style = {
   buttonStyle: {
     fontSize: '23px',
-    width: '200px',
-    padding: '50px',
-    backgroundColor: '#15ADFF',
+    width: '250px',
+    padding: '40px',
+    backgroundColor: '#3ab2b2',
     color: 'white',
-    border: '2px solid white',
+    border: 'none',
   },
 };
 

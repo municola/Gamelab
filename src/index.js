@@ -30,6 +30,9 @@ const store = createStore(
 );
 
 const root = document.createElement('div');
+document.body.style.margin = '0px';
+document.body.style.minHeight = '100vh';
+root.style.minHeight = '100vh';
 document.body.appendChild(root);
 
 render(

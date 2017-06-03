@@ -10,12 +10,27 @@ const style = {
   main: {
     display: 'flex',
     flexDirection: 'column',
+    width: '80%',
   },
-  parent: {
+  content: {
     display: 'flex',
-    height: '160px',
+    backgroundColor: '#151d25',
+    flexDirection: 'column',
+    minHeight: '92vh',
+  },
+  innerContainer: {
+    padding: '100px',
+  },
+  parent1: {
+    display: 'flex',
+    minHeight: '160px',
     justifyContent: 'center',
-    backgroundColor: '#52CAFF',
+    backgroundColor: '#364554',
+  },
+  parent2: {
+    display: 'flex',
+    minHeight: '160px',
+    justifyContent: 'center',
   },
   children: {
     alignSelf: 'center',
@@ -26,7 +41,6 @@ const style = {
     margin: '0px',
     padding: '75px',
     textAlign: 'center',
-    backgroundColor: '#15ADFF',
   },
 };
 
@@ -96,32 +110,36 @@ export default class UltimateBravery extends Component {
     return (
       <div style={style.main}>
         <Header title={'Ultimate Bravery'} />
-        <div style={style.parent}>
-          <div style={style.children}>
-            <Output title={this.state.champion} />
+        <div style={style.content}>
+          <div style={style.innerContainer}>
+            <div style={style.parent1}>
+              <div style={style.children}>
+                <Output title={this.state.champion} />
+              </div>
+              <div style={style.children}>
+                <Button title="Champion" change={this.getChampion} />
+              </div>
+            </div>
+            <div style={style.parent2}>
+              <div style={style.children}>
+                <Output title={this.state.fullwhat} />
+              </div>
+              <div style={style.children}>
+                <Button title="Fullwhat" change={this.getFullWhat} />
+              </div>
+            </div>
+            <div style={style.parent1}>
+              <div style={style.children}>
+                <Output title={this.state.lane} />
+              </div>
+              <div style={style.children}>
+                <Button title="Lane" change={this.getLane} />
+              </div>
+            </div>
+            <div style={style.rerole}>
+              <ReroleButton title="Rerole-All" change={this.getAll} />
+            </div>
           </div>
-          <div style={style.children}>
-            <Button title="Champion" change={this.getChampion} />
-          </div>
-        </div>
-        <div style={style.parent}>
-          <div style={style.children}>
-            <Output title={this.state.fullwhat} />
-          </div>
-          <div style={style.children}>
-            <Button title="Fullwhat" change={this.getFullWhat} />
-          </div>
-        </div>
-        <div style={style.parent}>
-          <div style={style.children}>
-            <Output title={this.state.lane} />
-          </div>
-          <div style={style.children}>
-            <Button title="Lane" change={this.getLane} />
-          </div>
-        </div>
-        <div style={style.rerole}>
-          <ReroleButton title="Rerole-All" change={this.getAll} />
         </div>
       </div>
     );

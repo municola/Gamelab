@@ -2,13 +2,13 @@ import React from 'react';
 
 const style = {
   buttonStyle: {
-    width: '150px',
+    width: '200px',
     height: '70px',
     padding: '14px',
-    backgroundColor: '#52CAFF',
+    backgroundColor: '#3ab2b2',
     color: 'white',
     fontSize: '25px',
-    border: '2px solid white',
+    border: 'none',
   },
 };
 

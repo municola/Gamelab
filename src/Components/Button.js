@@ -5,9 +5,9 @@ const style = {
     fontSize: '23px',
     width: '200px',
     padding: '20px',
-    backgroundColor: '#15ADFF',
+    backgroundColor: '#3ab2b2',
     color: 'white',
-    border: '2px solid white',
+    border: 'none',
   },
 };
 

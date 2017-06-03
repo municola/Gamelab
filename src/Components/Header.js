@@ -2,19 +2,22 @@ import React from 'react';
 
 const style = {
   header: {
-    margin: '0px',
-    padding: '30px',
-    textAlign: 'center',
-    backgroundColor: '#15ADFF',
-    color: 'white',
+    display: 'flex',
+    backgroundColor: '#364554',
+    justifyContent: 'center',
+    height: '8vh',
+  },
+  title: {
+    alignSelf: 'center',
     fontSize: '30px',
+    color: 'white',
   },
 };
 
 export default function Header(props) {
   return (
     <div style={style.header}>
-      <h1>{props.title}</h1>
+      <p style={style.title}>{props.title}</p>
     </div>
   );
 }
@@ -22,3 +25,4 @@ export default function Header(props) {
 Header.propTypes = {
   title: React.PropTypes.string.isRequired,
 };
+

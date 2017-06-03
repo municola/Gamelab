@@ -4,10 +4,10 @@ const style = {
   buttonStyle: {
     fontSize: '23px',
     width: '250px',
-    padding: '35px',
-    backgroundColor: '#52CAFF',
+    padding: '40px',
+    backgroundColor: '#3ab2b2',
     color: 'white',
-    border: '2px solid white',
+    border: 'none',
   },
 };
 

@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 import styles from '../Css/OnlineChecker.css';
 import SearchSummoner from '../Containers/SearchSummoner.js';
 import FriendsList from '../Containers/FriendsList.js';
+import Header from '../Components/Header.js';
 
 class OnlineChecker extends Component {
   progressBar(length) {
@@ -36,9 +37,7 @@ class OnlineChecker extends Component {
   render() {
     return (
       <div className={styles.body}>
-        <div className={styles.titleContainer}>
-          <p className={styles.title}>League Online Check</p>
-        </div>
+        <Header title={'OnlineChecker'} />
         <div className={styles.container}>
           <SearchSummoner progressBar={(length) => this.progressBar(length)} />
           <FriendsList progressBar={(length) => this.progressBar(length)} />
