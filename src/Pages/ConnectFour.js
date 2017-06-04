@@ -8,16 +8,16 @@ const { List } = require('immutable');
 
 const style = {
   container: {
+    width: '80%',
     display: 'flex',
-    backgroundColor: '#52CAFF',
+    backgroundColor: '#151d25',
     textAlign: 'center',
     flexDirection: 'column',
-    justifyContent: 'center',
   },
   parent: {
     display: 'flex',
     justifyContent: 'center',
-    paddingBottom: '100px',
+    paddingBottom: '0px',
   },
   resetButton: {
     backgroundColor: '#52CAFF',
@@ -179,7 +179,6 @@ export default class ConnectFour extends Component {
         <Header title={'Connect Four'} />
         <div>
           <Announcement title={this.state.announcement} />
-          <ResetButton reset={() => this.reset()} />
         </div>
         <div style={style.parent}>
           <div className={styles.boardC4}>
@@ -196,6 +195,7 @@ export default class ConnectFour extends Component {
             })}
           </div>
         </div>
+        <ResetButton reset={() => this.reset()} />
       </div>
     );
   }

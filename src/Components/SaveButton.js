@@ -2,14 +2,14 @@ import React from 'react';
 
 const style = {
   Button: {
-    height: '70px',
+    height: '50px',
     alignSelf: 'center',
     width: '150px',
-    padding: '14px',
-    backgroundColor: '#15ADFF',
+    padding: '10px',
+    backgroundColor: '#3ab2b2',
     color: 'white',
     fontSize: '25px',
-    border: '2px solid white',
+    border: 'none',
   },
 };
 

@@ -2,11 +2,10 @@ import React from 'react';
 
 const style = {
   title: {
-    color: 'white',
+    color: '#3ab2b2',
     paddingTop: '40px',
     paddingBottom: '40px',
     fontSize: '30px',
-    backgroundColor: '#15ADFF',
   },
 };
 

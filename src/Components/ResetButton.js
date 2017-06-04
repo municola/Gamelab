@@ -7,15 +7,14 @@ const style = {
     marginTop: '0px',
   },
   button: {
-    color: 'white',
-    fontSize: '20px',
-    marginTop: '30px',
-    marginBottom: '30px',
     width: '200px',
     height: '70px',
     padding: '14px',
-    border: '1px solid white',
-    backgroundColor: '#0D658C',
+    backgroundColor: '#3ab2b2',
+    color: 'white',
+    fontSize: '25px',
+    border: 'none',
+    marginTop: '30px',
   },
 };
 

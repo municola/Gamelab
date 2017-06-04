@@ -7,18 +7,28 @@ import Header from '../Components/Header';
 const { List } = require('immutable');
 
 const style = {
+  content: {
+    width: '80%',
+    backgroundColor: '#151d25',
+  },
+  innerContainer: {
+    padding: '100px',
+  },
   parent: {
-    height: '160px',
+    height: '140px',
     display: 'flex',
     flexDirection: 'row',
-    backgroundColor: '#52CAFF',
     justifyContent: 'center',
   },
-  textarea: {
+  input: {
+    color: '#3ab2b2',
     fontSize: '25px',
-    width: '260px',
+    width: '450px',
+    padding: '10px',
+    border: 'none',
     alignSelf: 'center',
     marginRight: '300px',
+    backgroundColor: '#364554',
   },
 };
 
@@ -27,8 +37,8 @@ export default class Notes extends Component {
     super();
     this.state = {
       edit: false,
-      immutableCommentBox: List.of(' ', ' ', ' '),
-      immutableComments: List.of('Comment', 'Comment', 'Comment'),
+      immutableCommentBox: List.of(' ', ' ', ' ', ' ', ' '),
+      immutableComments: List.of('Comment', 'Comment', 'Comment', 'Comment', 'Comment'),
     };
   }
 
@@ -55,7 +65,7 @@ export default class Notes extends Component {
       <input
         value={this.state.immutableComments.get(index)}
         onChange={(event) => this.handleChange(event, index)}
-        style={style.textarea}
+        style={style.input}
       />
     );
   }
@@ -69,16 +79,18 @@ export default class Notes extends Component {
 
   render() {
     return (
-      <div>
+      <div style={style.content}>
         <Header title={'Notes'} />
-        {this.state.immutableCommentBox.map((item, index) => {
-          return (
-            <div style={style.parent} key={index}>
-              {this.printComment(index)}
-              {this.printButton(index)}
-            </div>
-          );
-        })}
+        <div style={style.innerContainer}>
+          {this.state.immutableCommentBox.map((item, index) => {
+            return (
+              <div style={style.parent} key={index}>
+                {this.printComment(index)}
+                {this.printButton(index)}
+              </div>
+            );
+          })}
+        </div>
       </div>
     );
   }

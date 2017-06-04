@@ -7,16 +7,15 @@ import styles from '../Css/TicTacToe.css';
 
 const style = {
   container: {
+    width: '80%',
     display: 'flex',
-    backgroundColor: '#52CAFF',
+    backgroundColor: '#151d25',
     textAlign: 'center',
     flexDirection: 'column',
-    justifyContent: 'center',
   },
   board: {
     display: 'flex',
     justifyContent: 'center',
-    paddingBottom: '100px',
   },
 };
 
@@ -92,7 +91,6 @@ export default class TicTacToe extends Component {
         <Header title={'Tic Tac Toe'} />
         <div>
           <Announcement title={this.state.announcement} />
-          <ResetButton reset={() => this.resetBoard()} />
         </div>
         <div style={style.board}>
           <div className={styles.board}>
@@ -107,6 +105,7 @@ export default class TicTacToe extends Component {
             })}
           </div>
         </div>
+        <ResetButton reset={() => this.resetBoard()} />
       </div>
     );
   }

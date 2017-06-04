@@ -3,10 +3,12 @@ import React from 'react';
 const style = {
   p: {
     fontSize: '25px',
-    width: '260px',
-    color: 'white',
+    width: '450px',
+    padding: '10px',
+    color: '#3ab2b2',
     alignSelf: 'center',
     marginRight: '300px',
+    backgroundColor: '#364554',
   },
 };
 

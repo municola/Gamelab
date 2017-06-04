@@ -21,13 +21,17 @@
 
 .children {
   align-self: flex-start;
-  color: white;
+  color: #a5b6c3;
   font-size: 18px;
   padding-top: 22.5px;
   padding-left: 22.5px;
 }
 
 .link {
-  color: white;
+  color: #a5b6c3;
   text-decoration: none;
+}
+
+.link:visited {
+  color: red;
 }

@@ -16,7 +16,7 @@ const style = {
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'center',
-    padding: '100px',
+    padding: '150px',
   },
   youContainer: {
     display: 'flex',
