@@ -5,20 +5,20 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
-  border: 2px solid white;
+  border: 2px solid #a5b6c3;
   background-color: #364554;
 }
 
 .squareC4 {
   height: 100px;
   width: 100px;
-  border: 2px solid white;
+  border: 2px solid #a5b6c3;
   box-sizing: border-box;
-  font-size: 5em;
+  font-size: 1.5em;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: white;
+  color: #a5b6c3;
 }
 
 .squareC4:hover {

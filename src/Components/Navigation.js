@@ -3,9 +3,6 @@ import { Link } from 'react-router';
 
 import styles from '../Css/Navigation.css';
 
-const { List } = require('immutable');
-
-
 export default class Navigation extends Component {
   constructor() {
     super();
@@ -34,9 +31,11 @@ export default class Navigation extends Component {
       case 0: this.setState({ onlinechecker: { color: 'white', textDecoration: 'none' } }); break;
       case 1: this.setState({ ultimatebravery: { color: 'white', textDecoration: 'none' } }); break;
       case 2: this.setState({ notes: { color: 'white', textDecoration: 'none' } }); break;
-      case 3: this.setState({ rockpaperscissors: { color: 'white', textDecoration: 'none' } }); break;
+      case 3: this.setState({ rockpaperscissors: { color: 'white', textDecoration: 'none' } });
+        break;
       case 4: this.setState({ tictactoe: { color: 'white', textDecoration: 'none' } }); break;
       case 5: this.setState({ connectfour: { color: 'white', textDecoration: 'none' } }); break;
+      default: this.setState({ onlinechecker: { colro: 'red' } });
     }
   }
 
@@ -47,22 +46,36 @@ export default class Navigation extends Component {
           <p className={styles.nimuliaText}>Nimulia</p>
         </div>
         <div className={styles.children}>
-          <Link onClick={() => this.handleColor(0)} style={this.state.onlinechecker} to="onlinechecker">Online Checker</Link>
+          <Link
+            onClick={() => this.handleColor(0)} style={this.state.onlinechecker} to="onlinechecker"
+          >Online Checker</Link>
         </div>
         <div className={styles.children}>
-          <Link onClick={() => this.handleColor(1)} style={this.state.ultimatebravery} to="ultimatebravery">Ultimate Bravery</Link>
+          <Link
+            onClick={() => this.handleColor(1)}
+            style={this.state.ultimatebravery} to="ultimatebravery"
+          >Ultimate Bravery</Link>
         </div>
         <div className={styles.children}>
-          <Link onClick={() => this.handleColor(2)} style={this.state.notes} to="notes">Notes</Link>
+          <Link
+            onClick={() => this.handleColor(2)} style={this.state.notes} to="notes"
+          >Notes</Link>
         </div>
         <div className={styles.children}>
-          <Link onClick={() => this.handleColor(3)} style={this.state.rockpaperscissors} to="rockpaperscissors">Rock Paper Scissors</Link>
+          <Link
+            onClick={() => this.handleColor(3)}
+            style={this.state.rockpaperscissors} to="rockpaperscissors"
+          >Rock Paper Scissors</Link>
         </div>
         <div className={styles.children}>
-          <Link onClick={() => this.handleColor(4)} style={this.state.tictactoe} to="tictactoe">Tic Tac Toe</Link>
+          <Link
+            onClick={() => this.handleColor(4)} style={this.state.tictactoe} to="tictactoe"
+          >Tic Tac Toe</Link>
         </div>
         <div className={styles.children}>
-          <Link onClick={() => this.handleColor(5)} style={this.state.connectfour} to="connectfour">Connect Four</Link>
+          <Link
+            onClick={() => this.handleColor(5)} style={this.state.connectfour} to="connectfour"
+          >Connect Four</Link>
         </div>
       </div>
     );
