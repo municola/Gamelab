@@ -1,4 +1,4 @@
-/* eslint import/no-extraneous-dependencies: ["error", {"devDependencies": true}] 
+/* eslint import/no-extraneous-dependencies: ["error", {"devDependencies": true}]
 const path = require('path');
 const webpack = require('webpack');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
@@ -113,4 +113,3 @@ if (isProduction) {
 }
 
 module.exports = config;
-

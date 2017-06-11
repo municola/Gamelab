@@ -45,37 +45,40 @@ export default class Navigation extends Component {
         <div className={styles.nimulia}>
           <p className={styles.nimuliaText}>Nimulia</p>
         </div>
-        <div className={styles.children}>
-          <Link
-            onClick={() => this.handleColor(0)} style={this.state.onlinechecker} to="onlinechecker"
-          >Online Checker</Link>
-        </div>
-        <div className={styles.children}>
-          <Link
-            onClick={() => this.handleColor(1)}
-            style={this.state.ultimatebravery} to="ultimatebravery"
-          >Ultimate Bravery</Link>
-        </div>
-        <div className={styles.children}>
-          <Link
-            onClick={() => this.handleColor(2)} style={this.state.notes} to="notes"
-          >Notes</Link>
-        </div>
-        <div className={styles.children}>
-          <Link
-            onClick={() => this.handleColor(3)}
-            style={this.state.rockpaperscissors} to="rockpaperscissors"
-          >Rock Paper Scissors</Link>
-        </div>
-        <div className={styles.children}>
-          <Link
-            onClick={() => this.handleColor(4)} style={this.state.tictactoe} to="tictactoe"
-          >Tic Tac Toe</Link>
-        </div>
-        <div className={styles.children}>
-          <Link
-            onClick={() => this.handleColor(5)} style={this.state.connectfour} to="connectfour"
-          >Connect Four</Link>
+        <div className={styles.navBar}>
+          <div className={styles.children}>
+            <Link
+              onClick={() => this.handleColor(0)}
+              style={this.state.onlinechecker} to="onlinechecker"
+            >Online Checker</Link>
+          </div>
+          <div className={styles.children}>
+            <Link
+              onClick={() => this.handleColor(1)}
+              style={this.state.ultimatebravery} to="ultimatebravery"
+            >Ultimate Bravery</Link>
+          </div>
+          <div className={styles.children}>
+            <Link
+              onClick={() => this.handleColor(2)} style={this.state.notes} to="notes"
+            >Notes</Link>
+          </div>
+          <div className={styles.children}>
+            <Link
+              onClick={() => this.handleColor(3)}
+              style={this.state.rockpaperscissors} to="rockpaperscissors"
+            >Rock Paper Scissors</Link>
+          </div>
+          <div className={styles.children}>
+            <Link
+              onClick={() => this.handleColor(4)} style={this.state.tictactoe} to="tictactoe"
+            >Tic Tac Toe</Link>
+          </div>
+          <div className={styles.children}>
+            <Link
+              onClick={() => this.handleColor(5)} style={this.state.connectfour} to="connectfour"
+            >Connect Four</Link>
+          </div>
         </div>
       </div>
     );

@@ -19,19 +19,19 @@
   align-self: center;
 }
 
+.navBar {
+  padding: 15px;
+}
+
 .children {
   align-self: flex-start;
-  color: #a5b6c3;
-  font-size: 18px;
-  padding-top: 22.5px;
-  padding-left: 22.5px;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
 
-.link {
-  color: #a5b6c3;
-  text-decoration: none;
-}
-
-.link:visited {
+.children:hover {
+  background-color: #151d25;
   color: red;
 }
