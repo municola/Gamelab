@@ -13,6 +13,7 @@ export default class Navigation extends Component {
       rockpaperscissors: { color: '#a5b6c3', textDecoration: 'none' },
       tictactoe: { color: '#a5b6c3', textDecoration: 'none' },
       connectfour: { color: '#a5b6c3', textDecoration: 'none' },
+      chat: { color: '#a5b6c3', textDecoration: 'none' },
     };
   }
 
@@ -23,6 +24,7 @@ export default class Navigation extends Component {
     this.setState({ rockpaperscissors: { color: '#a5b6c3', textDecoration: 'none' } });
     this.setState({ tictactoe: { color: '#a5b6c3', textDecoration: 'none' } });
     this.setState({ connectfour: { color: '#a5b6c3', textDecoration: 'none' } });
+    this.setState({ chat: { color: '#a5b6c3', textDecoration: 'none' } });
   }
 
   handleColor(a) {
@@ -35,6 +37,7 @@ export default class Navigation extends Component {
         break;
       case 4: this.setState({ tictactoe: { color: 'white', textDecoration: 'none' } }); break;
       case 5: this.setState({ connectfour: { color: 'white', textDecoration: 'none' } }); break;
+      case 6: this.setState({ chat: { color: 'white', textDecoration: 'none' } }); break;
       default: this.setState({ onlinechecker: { colro: 'red' } });
     }
   }
@@ -78,6 +81,11 @@ export default class Navigation extends Component {
             <Link
               onClick={() => this.handleColor(5)} style={this.state.connectfour} to="connectfour"
             >Connect Four</Link>
+          </div>
+          <div className={styles.children}>
+            <Link
+              onClick={() => this.handleColor(6)} style={this.state.chat} to="chat"
+            >Chat</Link>
           </div>
         </div>
       </div>

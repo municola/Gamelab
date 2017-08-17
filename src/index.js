@@ -15,6 +15,7 @@ import ConnectFour from './Pages/ConnectFour.js';
 import RockPaperScissors from './Pages/RockPaperScissors.js';
 import UltimateBravery from './Pages/UltimateBravery.js';
 import Notes from './Pages/Notes.js';
+import Chat from './Pages/chat.js';
 
 // const loggerMiddleware = createLogger();
 
@@ -46,6 +47,7 @@ render(
         <Route path="/rockpaperscissors" component={RockPaperScissors} />
         <Route path="/ultimatebravery" component={UltimateBravery} />
         <Route path="/notes" component={Notes} />
+        <Route path="/chat" component={Chat} />
       </Route>
     </Router>
   </Provider>,

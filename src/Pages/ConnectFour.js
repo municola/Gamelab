@@ -24,8 +24,8 @@ const style = {
   },
 };
 export default class ConnectFour extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       immutableBoard: List.of(
         ' ', ' ', ' ', ' ', ' ', ' ', ' ',

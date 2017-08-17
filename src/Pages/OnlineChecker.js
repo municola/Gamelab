@@ -1,6 +1,8 @@
 import Progress from 'react-progressbar';
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import io from 'socket.io-client';
+import { autobind } from 'core-decorators';
 
 import styles from '../Css/OnlineChecker.css';
 import SearchSummoner from '../Containers/SearchSummoner.js';
@@ -8,6 +10,13 @@ import FriendsList from '../Containers/FriendsList.js';
 import Header from '../Components/Header.js';
 
 class OnlineChecker extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      message: '',
+    };
+  }
+
   progressBar(length) {
     if (this.props.game.callNumber > 10 - length) {
       return (
@@ -34,6 +43,13 @@ class OnlineChecker extends Component {
     return false;
   }
 
+  @autobind
+  connect() {
+    const socket = io('http://localhost:5609');
+    socket.emit('message', {});
+    socket.on('answer', (message) => this.setState({ message }));
+  }
+
   render() {
     return (
       <div className={styles.body}>
@@ -47,6 +63,8 @@ class OnlineChecker extends Component {
             {this.printTime()}
           </div>
           <p className={styles.normalText}>{this.props.game.errorMessage}</p>
+          <button onClick={this.connect}>click me </button>
+          <p>{this.state.message}</p>
         </div>
       </div>
     );
