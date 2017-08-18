@@ -1,8 +1,16 @@
 import React, { Component } from 'react';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
 import io from 'socket.io-client';
+
+import { newChat, setUsername, loginTrue } from '../Actions/chat.js';
 import Header from '../Components/Header';
 
 const style = {
+  fontOne: {
+    color: '#3ab2b2',
+    marginRight: '20px',
+  },
   container: {
     width: '80%',
     backgroundColor: '#151d25',
@@ -49,52 +57,95 @@ const style = {
 
 const socket = io('http://localhost:5609');
 
-export default class ConnectFour extends Component {
+class chat extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      messages: [],
       input: '',
     };
   }
 
   componentDidMount() {
     socket.on('chatlog', (chatlog) => {
-      this.setState({ messages: chatlog });
+      this.props.newChat(chatlog);
     });
+    console.log('adsf');
   }
 
   change(event) {
-    this.setState({ input: event.target.value });
+    if (event.target.value !== '') {
+      this.setState({ input: event.target.value });
+    }
   }
 
   send() {
-    socket.emit('send', this.state.input);
+    socket.emit('send', this.state.input, this.props.chat.username);
     this.setState({ input: '' });
   }
 
+  login() {
+    socket.emit('login', this.props.chat.username);
+    this.props.loginTrue();
+  }
+
   render() {
+    if (this.props.chat.login === true) {
+      return (
+        <div style={style.container}>
+          <Header title={'Chat'} />
+          <div style={style.innerContainer}>
+            <ul style={style.chatArea}>
+              {this.props.chat.chatlog.map((item, i) => {
+                console.log(item);
+                return (
+                  <li style={style.message} key={i}>{item[1]}: {item[0]}</li>
+                );
+              })}
+            </ul>
+            <form style={style.form} onSubmit={() => this.send()}>
+              <input
+                style={style.input}
+                value={this.state.input}
+                onChange={(event) => this.change(event)}
+              />
+              <button style={style.submitButton} type="submit">send</button>
+            </form>
+          </div>
+        </div>
+      );
+    }
     return (
       <div style={style.container}>
         <Header title={'Chat'} />
         <div style={style.innerContainer}>
-          <ul style={style.chatArea}>
-            {this.state.messages.map((item, i) => {
-              return (
-                <li style={style.message} key={i}>{item}</li>
-              );
-            })}
-          </ul>
-          <form style={style.form} onSubmit={() => this.send()}>
+          <form style={style.form} onSubmit={() => this.login()}>
+            <p style={style.fontOne}>Username: </p>
             <input
               style={style.input}
-              value={this.state.input}
-              onChange={(event) => this.change(event)}
+              onChange={(event) => this.props.setUsername(event.target.value)}
             />
-            <button style={style.submitButton} type="submit">send</button>
           </form>
         </div>
       </div>
     );
   }
 }
+
+chat.propTypes = {
+  chat: React.PropTypes.object,
+  setUsername: React.PropTypes.func,
+  loginTrue: React.PropTypes.func,
+  newChat: React.PropTypes.func,
+};
+
+function mapStateToProps(state) {
+  return {
+    chat: state.chat,
+  };
+}
+
+function matchDispatchToProps(dispatch) {
+  return bindActionCreators({ newChat, setUsername, loginTrue }, dispatch);
+}
+
+export default connect(mapStateToProps, matchDispatchToProps)(chat);

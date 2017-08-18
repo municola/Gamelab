@@ -10,19 +10,21 @@ const io = require('socket.io')(5609, {
 });
 
 const messages = [];
+const users = [];
 
 io.on('connection', (socket) => {
   console.log('connected');
-  socket.on('button', () => {
-    socket.emit('answer', 'hello');
-  });
-  socket.on('foodButton', () => {
-    socket.emit('bestFood', 'pizza');
-  });
-  socket.on('send', (message) => {
-    messages.push(message);
+  socket.on('send', (message, name) => {
+    messages.push([message, name]);
     socket.broadcast.emit('chatlog', messages);
     socket.emit('chatlog', messages);
-    console.log(messages);
+    // console.log(messages);
+  });
+  socket.on('login', (username) => {
+    users.push(username);
+    // console.log(users);
+  });
+  socket.on('disconnect', () => {
+    console.log('disconnect');
   });
 });

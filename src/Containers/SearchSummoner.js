@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
-import { addSummoner, saveName, saveRegion, fetchId, errorMessage } from '../Actions/index.js';
+import { addSummoner, saveName, saveRegion, fetchId, errorMessage } from '../Actions/game.js';
 import styles from '../Css/OnlineChecker.css';
 
 class SearchSummoner extends Component {

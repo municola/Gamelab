@@ -4,7 +4,7 @@ import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
 import styles from '../Css/App.css';
-import { decrement, progressBarCounter, resetCounter } from '../Actions/index.js';
+import { decrement, progressBarCounter, resetCounter } from '../Actions/game.js';
 import Navigation from '../Components/Navigation';
 
 class App extends Component {

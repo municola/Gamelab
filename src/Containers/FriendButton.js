@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
-import { fetchGame, errorMessage } from '../Actions/index.js';
+import { fetchGame, errorMessage } from '../Actions/game.js';
 import styles from '../Css/OnlineChecker.css';
 
 class FriendButton extends Component {
