@@ -2,8 +2,10 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import io from 'socket.io-client';
+import { autobind } from 'core-decorators';
+import { LocalForm } from 'react-redux-form';
 
-import { newChat, setUsername, loginTrue } from '../Actions/chat.js';
+import { newMessage, setUsername, joinTrue, newUser } from '../Actions/chat.js';
 import Header from '../Components/Header';
 
 const style = {
@@ -18,7 +20,11 @@ const style = {
   innerContainer: {
     padding: '100px',
   },
-  chatArea: {
+  users: {
+    listStyleType: 'none',
+    padding: '0px',
+  },
+  chat: {
     padding: '20px',
     height: '400px',
     backgroundColor: '#364554',
@@ -65,51 +71,69 @@ class chat extends Component {
     };
   }
 
+  @autobind
   componentDidMount() {
-    socket.on('chatlog', (chatlog) => {
-      this.props.newChat(chatlog);
+    socket.on('newMessage', (username, message) => {
+      this.props.newMessage(username, message);
     });
-    console.log('adsf');
+    socket.on('newUser', (user) => {
+      this.props.newUser(user);
+      console.log(user);
+      console.log(user[1]);
+    });
   }
 
+  @autobind
   change(event) {
     if (event.target.value !== '') {
       this.setState({ input: event.target.value });
     }
   }
 
+  @autobind
   send() {
     socket.emit('send', this.state.input, this.props.chat.username);
     this.setState({ input: '' });
   }
 
-  login() {
-    socket.emit('login', this.props.chat.username);
-    this.props.loginTrue();
+  @autobind
+  join() {
+    socket.emit('join', this.props.chat.username);
+    this.props.joinTrue();
   }
 
   render() {
-    if (this.props.chat.login === true) {
+    if (this.props.chat.join === true) {
       return (
         <div style={style.container}>
           <Header title={'Chat'} />
           <div style={style.innerContainer}>
-            <ul style={style.chatArea}>
-              {this.props.chat.chatlog.map((item, i) => {
-                console.log(item);
-                return (
-                  <li style={style.message} key={i}>{item[1]}: {item[0]}</li>
-                );
-              })}
-            </ul>
-            <form style={style.form} onSubmit={() => this.send()}>
-              <input
-                style={style.input}
-                value={this.state.input}
-                onChange={(event) => this.change(event)}
-              />
-              <button style={style.submitButton} type="submit">send</button>
-            </form>
+            <div style={style.userArea}>
+              <ul style={style.users}>
+                {this.props.chat.users.map((item, i) => {
+                  return (
+                    <li style={style.message} key={i}>{item[1]}</li>
+                  );
+                })}
+              </ul>
+            </div>
+            <div style={style.chatArea}>
+              <ul style={style.chat}>
+                {this.props.chat.chatlog.map((item, i) => {
+                  return (
+                    <li style={style.message} key={i}>{item[0]}: {item[1]}</li>
+                  );
+                })}
+              </ul>
+              <LocalForm style={style.form} onSubmit={() => this.send()}>
+                <input
+                  style={style.input}
+                  value={this.state.input}
+                  onChange={(event) => this.change(event)}
+                />
+                <button style={style.submitButton} type="submit">send</button>
+              </LocalForm>
+            </div>
           </div>
         </div>
       );
@@ -118,13 +142,13 @@ class chat extends Component {
       <div style={style.container}>
         <Header title={'Chat'} />
         <div style={style.innerContainer}>
-          <form style={style.form} onSubmit={() => this.login()}>
+          <LocalForm style={style.form} onSubmit={() => this.join()}>
             <p style={style.fontOne}>Username: </p>
             <input
               style={style.input}
               onChange={(event) => this.props.setUsername(event.target.value)}
             />
-          </form>
+          </LocalForm>
         </div>
       </div>
     );
@@ -134,8 +158,9 @@ class chat extends Component {
 chat.propTypes = {
   chat: React.PropTypes.object,
   setUsername: React.PropTypes.func,
-  loginTrue: React.PropTypes.func,
-  newChat: React.PropTypes.func,
+  joinTrue: React.PropTypes.func,
+  newMessage: React.PropTypes.func,
+  newUser: React.PropTypes.func,
 };
 
 function mapStateToProps(state) {
@@ -145,7 +170,7 @@ function mapStateToProps(state) {
 }
 
 function matchDispatchToProps(dispatch) {
-  return bindActionCreators({ newChat, setUsername, loginTrue }, dispatch);
+  return bindActionCreators({ newMessage, setUsername, joinTrue, newUser }, dispatch);
 }
 
 export default connect(mapStateToProps, matchDispatchToProps)(chat);

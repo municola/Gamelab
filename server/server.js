@@ -9,20 +9,20 @@ const io = require('socket.io')(5609, {
   cookie: false,
 });
 
-const messages = [];
-const users = [];
+const people = [];
 
 io.on('connection', (socket) => {
   console.log('connected');
-  socket.on('send', (message, name) => {
-    messages.push([message, name]);
-    socket.broadcast.emit('chatlog', messages);
-    socket.emit('chatlog', messages);
-    // console.log(messages);
+  console.log(socket.id);
+  socket.on('join', (username) => {
+    people.push([socket.id, username]);
+    socket.broadcast.emit('newUser', people);
+    socket.emit('newUser', people);
+    console.log(people);
   });
-  socket.on('login', (username) => {
-    users.push(username);
-    // console.log(users);
+  socket.on('send', (message, username) => {
+    socket.broadcast.emit('newMessage', username, message);
+    socket.emit('newMessage', username, message);
   });
   socket.on('disconnect', () => {
     console.log('disconnect');

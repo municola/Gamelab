@@ -1,9 +1,10 @@
 import 'whatwg-fetch';
 
-export const newChat = (chatlog) => {
+export const newMessage = (username, message) => {
   return {
-    type: 'NEW_CHAT',
-    chatlog,
+    type: 'NEW_MESSAGE',
+    username,
+    message,
   };
 };
 
@@ -14,9 +15,16 @@ export const setUsername = (username) => {
   };
 };
 
-export const loginTrue = () => {
+export const joinTrue = () => {
   return {
-    type: 'LOGIN_TRUE',
+    type: 'JOIN_TRUE',
+  };
+};
+
+export const newUser = (user) => {
+  return {
+    type: 'NEW_USER',
+    user,
   };
 };
 
