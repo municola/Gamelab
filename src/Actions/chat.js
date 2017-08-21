@@ -28,10 +28,17 @@ export const newUser = (user) => {
   };
 };
 
-export const update = (username) => {
+export const update = (msg) => {
   return {
     type: 'UPDATE',
-    username,
+    msg,
+  };
+};
+
+export const room = (i) => {
+  return {
+    type: 'ROOM',
+    i,
   };
 };
 

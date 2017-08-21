@@ -1,6 +1,7 @@
 const initialState = {
   chatlog: [],
   users: [],
+  room: '',
   join: false,
 };
 
@@ -25,7 +26,10 @@ export default function (state = initialState, action) {
       };
     }
     case 'UPDATE' : {
-      return { ...state, chatlog: state.chatlog.concat([[`${action.username} connected`]]) };
+      return { ...state, chatlog: state.chatlog.concat([[action.msg]]) };
+    }
+    case 'ROOM' : {
+      return { ...state, room: action.i };
     }
     default: {
       return state;

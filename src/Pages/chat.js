@@ -5,8 +5,15 @@ import io from 'socket.io-client';
 import { autobind } from 'core-decorators';
 import { LocalForm } from 'react-redux-form';
 
-import { newMessage, setUsername, joinTrue, newUser, update } from '../Actions/chat.js';
 import Header from '../Components/Header';
+import ChatRoom from '../Containers/chatRoom';
+import {
+  newMessage,
+  setUsername,
+  joinTrue,
+  newUser,
+  room,
+  update } from '../Actions/chat.js';
 
 const style = {
   fontOne: {
@@ -71,6 +78,20 @@ const style = {
     fontSize: '25px',
     border: 'none',
   },
+  chatRooms: {
+    display: 'flex',
+    flexDirection: 'row',
+  },
+  roomButton: {
+    fontSize: '20px',
+    margin: '20px',
+    marginLeft: '0px',
+    border: 'none',
+    padding: '15px',
+    alignSelf: 'center',
+    backgroundColor: '#364554',
+    color: 'white',
+  },
 };
 
 const socket = io('http://localhost:5609');
@@ -90,11 +111,9 @@ class chat extends Component {
     });
     socket.on('newUser', (user) => {
       this.props.newUser(user);
-      console.log(user);
-      console.log(user[1]);
     });
-    socket.on('update', (username) => {
-      this.props.update(username);
+    socket.on('update', (msg) => {
+      this.props.update(msg);
     });
   }
 
@@ -117,8 +136,17 @@ class chat extends Component {
     this.props.joinTrue();
   }
 
+  @autobind
+  connect(i) {
+    socket.emit('room', i);
+    this.props.room(i);
+  }
+
   render() {
     if (this.props.chat.join === true) {
+      if (this.props.chat.room !== '') {
+        return <ChatRoom socket={socket} />;
+      }
       return (
         <div style={style.container}>
           <Header title={'Chat'} />
@@ -150,6 +178,11 @@ class chat extends Component {
                 <button style={style.submitButton} type="submit">send</button>
               </LocalForm>
             </div>
+            <div style={style.chatRooms}>
+              <button style={style.roomButton} onClick={() => this.connect(1)}>Room 1</button>
+              <button style={style.roomButton} onClick={() => this.connect(2)}>Room 2</button>
+              <button style={style.roomButton} onClick={() => this.connect(3)}>Room 3</button>
+            </div>
           </div>
         </div>
       );
@@ -178,6 +211,7 @@ chat.propTypes = {
   newMessage: React.PropTypes.func,
   newUser: React.PropTypes.func,
   update: React.PropTypes.func,
+  room: React.PropTypes.func,
 };
 
 function mapStateToProps(state) {
@@ -187,7 +221,7 @@ function mapStateToProps(state) {
 }
 
 function matchDispatchToProps(dispatch) {
-  return bindActionCreators({ newMessage, setUsername, joinTrue, newUser, update }, dispatch);
+  return bindActionCreators({ newMessage, setUsername, joinTrue, newUser, update, room }, dispatch);
 }
 
 export default connect(mapStateToProps, matchDispatchToProps)(chat);
