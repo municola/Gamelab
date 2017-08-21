@@ -28,3 +28,10 @@ export const newUser = (user) => {
   };
 };
 
+export const update = (username) => {
+  return {
+    type: 'UPDATE',
+    username,
+  };
+};
+

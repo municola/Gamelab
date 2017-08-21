@@ -9,15 +9,15 @@ const io = require('socket.io')(5609, {
   cookie: false,
 });
 
-const people = [];
+let people = [];
 
 io.on('connection', (socket) => {
   console.log('connected');
-  console.log(socket.id);
   socket.on('join', (username) => {
     people.push([socket.id, username]);
     socket.broadcast.emit('newUser', people);
     socket.emit('newUser', people);
+    socket.broadcast.emit('update', username);
     console.log(people);
   });
   socket.on('send', (message, username) => {
@@ -26,5 +26,10 @@ io.on('connection', (socket) => {
   });
   socket.on('disconnect', () => {
     console.log('disconnect');
+    people = people.filter((item) => {
+      return item[0] !== socket.id;
+    });
+    socket.broadcast.emit('newUser', people);
+    socket.emit('newUser', people);
   });
 });

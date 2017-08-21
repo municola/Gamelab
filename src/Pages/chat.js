@@ -5,7 +5,7 @@ import io from 'socket.io-client';
 import { autobind } from 'core-decorators';
 import { LocalForm } from 'react-redux-form';
 
-import { newMessage, setUsername, joinTrue, newUser } from '../Actions/chat.js';
+import { newMessage, setUsername, joinTrue, newUser, update } from '../Actions/chat.js';
 import Header from '../Components/Header';
 
 const style = {
@@ -20,7 +20,13 @@ const style = {
   innerContainer: {
     padding: '100px',
   },
+  title: {
+    marginTop: '0px',
+    color: 'white',
+  },
   users: {
+    display: 'flex',
+    flexDirection: 'row',
     listStyleType: 'none',
     padding: '0px',
   },
@@ -34,6 +40,12 @@ const style = {
   },
   message: {
     color: '#3ab2b2',
+  },
+  message2: {
+    color: '#3ab2b2',
+  },
+  message3: {
+    color: '#bdbdbd',
   },
   form: {
     display: 'flex',
@@ -81,6 +93,9 @@ class chat extends Component {
       console.log(user);
       console.log(user[1]);
     });
+    socket.on('update', (username) => {
+      this.props.update(username);
+    });
   }
 
   @autobind
@@ -109,20 +124,21 @@ class chat extends Component {
           <Header title={'Chat'} />
           <div style={style.innerContainer}>
             <div style={style.userArea}>
+              <p style={style.title}>Online Users</p>
               <ul style={style.users}>
                 {this.props.chat.users.map((item, i) => {
-                  return (
-                    <li style={style.message} key={i}>{item[1]}</li>
-                  );
+                  if (i === this.props.chat.users.length - 1) {
+                    return <li style={style.message2} key={i}>{`${item[1]}`}</li>;
+                  } return <li style={style.message} key={i}>{`${item[1]}\u00A0`}</li>;
                 })}
               </ul>
             </div>
             <div style={style.chatArea}>
               <ul style={style.chat}>
                 {this.props.chat.chatlog.map((item, i) => {
-                  return (
-                    <li style={style.message} key={i}>{item[0]}: {item[1]}</li>
-                  );
+                  if (item.length === 1) {
+                    return <li style={style.message3} key={i}>{item}</li>;
+                  } return <li style={style.message} key={i}>{item[0]}: {item[1]}</li>;
                 })}
               </ul>
               <LocalForm style={style.form} onSubmit={() => this.send()}>
@@ -161,6 +177,7 @@ chat.propTypes = {
   joinTrue: React.PropTypes.func,
   newMessage: React.PropTypes.func,
   newUser: React.PropTypes.func,
+  update: React.PropTypes.func,
 };
 
 function mapStateToProps(state) {
@@ -170,7 +187,7 @@ function mapStateToProps(state) {
 }
 
 function matchDispatchToProps(dispatch) {
-  return bindActionCreators({ newMessage, setUsername, joinTrue, newUser }, dispatch);
+  return bindActionCreators({ newMessage, setUsername, joinTrue, newUser, update }, dispatch);
 }
 
 export default connect(mapStateToProps, matchDispatchToProps)(chat);

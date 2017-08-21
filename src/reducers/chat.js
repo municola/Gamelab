@@ -24,6 +24,9 @@ export default function (state = initialState, action) {
         users: action.user,
       };
     }
+    case 'UPDATE' : {
+      return { ...state, chatlog: state.chatlog.concat([[`${action.username} connected`]]) };
+    }
     default: {
       return state;
     }
