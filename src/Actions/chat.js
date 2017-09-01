@@ -42,3 +42,10 @@ export const room = (i) => {
   };
 };
 
+export const leaveRoom = (i) => {
+  return {
+    type: 'LEAVE_ROOM',
+    i,
+  };
+};
+

@@ -23,11 +23,16 @@ io.on('connection', (socket) => {
     socket.broadcast.emit('newMessage', username, message);
     socket.emit('newMessage', username, message);
   });
-  socket.on('room', (i) => {
-    socket.join(i);
+  socket.on('subscribe', (id) => {
+    socket.join(id);
+    io.to(id).emit('name', id);
   });
-  socket.on('test', (msg) => {
-    console.log(msg);
+  socket.on('unsubscribe', (id) => {
+    console.log('asdf');
+    socket.leave(id);
+  });
+  socket.on('test', (id, msg) => {
+    io.to(id).emit('msg', msg);
   });
   socket.on('disconnect', () => {
     console.log('disconnect');
@@ -37,8 +42,10 @@ io.on('connection', (socket) => {
     people = people.filter((item) => {
       return item[0] !== socket.id;
     });
-    socket.broadcast.emit('newUser', people);
-    socket.emit('newUser', people);
-    socket.broadcast.emit('update', `${name[0][1]} disconnected`);
+    if (name.length > 0) {
+      socket.broadcast.emit('newUser', people);
+      socket.emit('newUser', people);
+      socket.broadcast.emit('update', `${name[0][1]} disconnected`);
+    }
   });
 });

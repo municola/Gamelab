@@ -138,7 +138,7 @@ class chat extends Component {
 
   @autobind
   connect(i) {
-    socket.emit('room', i);
+    socket.emit('subscribe', i);
     this.props.room(i);
   }
 

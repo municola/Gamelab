@@ -31,6 +31,9 @@ export default function (state = initialState, action) {
     case 'ROOM' : {
       return { ...state, room: action.i };
     }
+    case 'LEAVE_ROOM' : {
+      return { ...state, room: '' };
+    }
     default: {
       return state;
     }
