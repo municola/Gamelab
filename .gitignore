@@ -1,6 +1,8 @@
 ### Application specific
 .tmp/
 dist/
+node_modules
+package-lock.json
 
 ### https://raw.github.com/github/gitignore/cdfa89334df7e99dcf85ad8ecade7e14f498612f/Global/Vim.gitignore
 
