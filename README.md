@@ -1,4 +1,4 @@
-# Game-hub
+# Game-hub (2017)
 Web Application for
 - Check if players are online/offline, currentely in a game (for how long and with whom) for League of Legends using the official League of Legends API.
 - Chat
